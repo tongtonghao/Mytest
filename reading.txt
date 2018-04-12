@@ -1,3 +1,5 @@
 This is a command for git !
 	so I want to learn git.
 git has a mutable index called stage.
+
+git has an amazing history!
